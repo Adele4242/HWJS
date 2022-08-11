@@ -114,7 +114,7 @@ if (names[i] == 'Наташа'){
 console.log(names[i])
 }
 
-//twelfth  !!!
+//twelfth
 
 let f = ['Наташа', 'Анастасия', 2, 'Максим', 4]
 for (let i = 0; i < f.length; i++) {
